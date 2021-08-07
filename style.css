@@ -13,16 +13,16 @@
 }
 
 .carousel-img-1 {
-  background: url(pc.jpeg);
+  background: url(style.css/pc.jpeg);
   background-size: cover;
 }
 
 .carousel-img-2 {
-  background: url(image5.jpeg);
+  background: url(style.css/image5.jpeg);
   background-size: cover;
 }
 
 .carousel-img-3 {
-  background: url(people.jpeg);
+  background: url(style.css/people.jpeg);
   background-size: cover;
 }/*# sourceMappingURL=style.css.map */
